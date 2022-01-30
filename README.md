@@ -1,2 +1,2 @@
 # hello-world
-hellow there, this is Max.
+hello there, this is Max.
